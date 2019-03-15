@@ -85,14 +85,19 @@ padding: 2em;
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 50px;
+  right: 250px;
+  top: 70px;
 }
 
 .bottom-cloud {
   position: absolute;
-  bottom: 300px;
-  left: 300px
+  bottom: 280px;
+  left: 250px
+}
+.bottom-cloud-right {
+  position: absolute;
+  bottom: 250px;
+  right: 470px
 }
 
 .skill-row{
@@ -164,4 +169,86 @@ padding: 2em;
   background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
+}
+
+
+@media (min-width:960px) {
+
+/*
+.hello {
+  font-size: 50px;
+} */
+.top-cloud {
+  right: 20%;
+}
+
+.top-designation {
+  margin-bottom: 0;
+}
+
+.bottom-cloud {
+  left: 10%;
+  bottom: 40%;
+}
+
+
+.mountain {
+ width: 100%;
+}
+
+
+.profile-pic {
+  width: 60%;
+}
+
+.hello {
+  font-size: 5rem;
+}
+
+.profile-paragraph {
+  font-size: 3rem;
+  width: 70%;
+}
+
+.my-skills {
+  font-size: 4.45rem;
+}
+
+.skill-row{
+  width: 70%;
+  text-align: center;
+}
+
+.code-editor-img {
+  width: 70%;
+  float: none;
+  margin-right: 0;
+}
+
+.web-dev-img {
+  width: 70%;
+  float: none;
+margin-left: 0;
+}
+
+.skill1 {
+  font-size: 3rem;
+}
+
+.skill1-paragraph {
+font-size: 2.5rem;
+}
+
+.skill2 {
+  font-size: 3rem;
+}
+
+.skill2-paragraph {
+font-size: 2.5rem;
+}
+
+.contact-me {
+  width: 100%;
+}
+
 }
