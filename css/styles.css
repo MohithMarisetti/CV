@@ -173,17 +173,17 @@ padding: 2em;
 
 
 @media (min-width:960px) {
-
 /*
-.hello {
-  font-size: 50px;
+.top-container {
+  height:  100vh;
 } */
+
 .top-cloud {
   right: 20%;
 }
 
-.top-designation {
-  margin-bottom: 0;
+.title-name {
+margin-top: 25%;
 }
 
 .bottom-cloud {
@@ -193,6 +193,7 @@ padding: 2em;
 
 
 .mountain {
+  height: 65vh;
  width: 100%;
 }
 
