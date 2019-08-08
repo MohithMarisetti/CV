@@ -172,7 +172,7 @@ padding: 2em;
 }
 
 
-@media (min-width:960px) {
+@media (max-width:960px) {
 /*
 .top-container {
   height:  100vh;
