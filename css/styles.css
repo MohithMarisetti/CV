@@ -63,9 +63,15 @@ p {
 
 
 /******************************CLASS SELECTORS************************************/
+
+.mountain{
+  width: 800px;  
+}
+
+
 .top-container {
   position: relative;
-  padding-top: 125px;
+  padding-top: 10px;
   background-color: #EAF6F6;
 
 }
