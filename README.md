@@ -1,5 +1,6 @@
 # cv
 My name is Mohith Marisetti. This is my CV. Cheers!
+Please visit https://mohithmarisetti.github.io/cv/ to view my website.
 
 Citations: 
 This website was a part of a Web development course by Angela Yu on Udemy.
